@@ -1,0 +1,5 @@
+#CNeditor
+
+CNeditor is a web-based simple file browser/editor written in PHP. Please do not upload it on your host, unless you understand the implications that come along with it.
+
+I have used it on numerous occasions, as a quick hack to update files, pen-test websites, and simply play. I wrote it back in Mar-2010.
